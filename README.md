@@ -1,0 +1,1 @@
+# Quantum-Computing-Assisted-Deep-Learning-for-Fault-Detection-in-Industrial-Process
